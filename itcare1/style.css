@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+.signin_body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-image: url("resource/pexels-padrinan-255379.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+
+}
+
+.signin_box {
+    width: 380px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px 5px rgba(157, 160, 252, 0.942);
+}
+
+.signup_box {
+    width: 480px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px 5px rgba(157, 160, 252, 0.942);
+}
+
+.adminsigninbody {
+    background-image: url("resource/back3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.adminsignbox {
+    width: 380px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px 2px rgba(77, 113, 110, 0.943);
+    /* background-color: white; */
+}
+
+
+
+.updateproductbody {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.admindashbordbody {
+    background-image: url("resource/9091671.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+.cart-icon{
+    background-image: url("resource/shopping-cart.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.homebody{
+    background-image: url("resource/pexels-padrinan-255379.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;  
+}
+.siglebody{
+    background-image: url("resource/pexels-padrinan-255379.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    
+
+}
